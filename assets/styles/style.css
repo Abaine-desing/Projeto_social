@@ -4,18 +4,3 @@
     box-sizing: border-box;
 }
 
-body {
-
-    background-image: url(/assets/images/background.gif);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size:cover;
-
-}
-h1{
-    color: aqua;
-   
-}
-p{
-    color: aquamarine;
-}
