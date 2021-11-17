@@ -287,3 +287,20 @@ MODAL
   height: 90%;
   transform: translate(-50%, -50%);
 }
+
+ /*parallax*/
+
+.parallax {
+  
+  background-image: url("https://www.oficinadanet.com.br/imagens/post/25055/engenheiro-de-software.jpg");
+
+  
+  min-height: 500px; 
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
